@@ -1,1 +1,2 @@
 Full stack development
+FSD is an end-to-end development of an application it includes bot front end and back end development..
